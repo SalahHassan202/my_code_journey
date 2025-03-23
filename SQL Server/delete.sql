@@ -1,0 +1,1 @@
+delete from table_1 where id = 1 
