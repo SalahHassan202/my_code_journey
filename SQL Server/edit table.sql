@@ -1,0 +1,7 @@
+1	'salah'  	1000	'egypt'              	'ahmed zewail'                                      
+2	'kariem'  	3250	'syeria'              	'sg334'                                             
+3	'hassan'  	2000	'maroco'              	'wasd44'                                            
+4	'mostafa' 	2100	'elgazaer'            	'esw456'                                            
+5	'ali'     	1500	'elsodan'             	'gfrty65hy'                                         
+6	'ahmed'   	1900	'libya'               	'trfd55dry'                                         
+7	'mahmoud'	5000	'egypt'               	'dertf654678f'                                      
